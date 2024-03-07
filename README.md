@@ -1,8 +1,6 @@
 # REsaMiner
 
 This Python script is a web crawler designed to extract and process real estate information. The script utilizes the Playwright library for web scraping, Aiosqlite for SQLite database interactions, and Rich for console logging.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lxmql7wsaW0/0.jpg)](https://www.youtube.com/watch?v=Lxmql7wsaW0)
-
 
 https://github.com/bambeero1/REsaMiner/assets/47931114/f990f579-ee5b-4c07-8d83-b66b3db9edb7
 
