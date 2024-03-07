@@ -1,6 +1,6 @@
 # REsaMiner
 
-This Python script is a web crawler designed to extract and process real estate information from category pages on the website "https://sa.aqar.fm/عقارات/". The script utilizes the Playwright library for web scraping, Aiosqlite for SQLite database interactions, and Rich for console logging.
+This Python script is a web crawler designed to extract and process real estate information. The script utilizes the Playwright library for web scraping, Aiosqlite for SQLite database interactions, and Rich for console logging.
 
 ## Dependencies
 
